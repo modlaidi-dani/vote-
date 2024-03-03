@@ -20,7 +20,15 @@ Develop a desktop application for elections management, based solely on candidat
 - Voting period for voters.
 - Candidates vote for the most attractive projects in each sector.
 - Calculation of points and automatic ranking of candidates.
+## Info Test:
+###### user: 
+- Id: 1234
+- First name: user
+- last name: user
+###### admin:
+- Id: 1
+- First name: admin
+- last name: admin
 
 ###### This project aims to introduce an innovative and transparent electoral system, where candidates are evaluated solely based on their projects, without bias related to their identity.
 
-This project aims to introduce an innovative and transparent electoral system, where candidates are evaluated solely based on their projects, without bias related to their identity.
